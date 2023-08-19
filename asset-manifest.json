@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io/RoutesProject/static/css/main.bfc90459.css",
+    "main.js": "/github.io/RoutesProject/static/js/main.0e68550e.js",
+    "static/media/signup.png": "/github.io/RoutesProject/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/github.io/RoutesProject/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/github.io/RoutesProject/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/github.io/RoutesProject/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/github.io/RoutesProject/index.html",
+    "main.bfc90459.css.map": "/github.io/RoutesProject/static/css/main.bfc90459.css.map",
+    "main.0e68550e.js.map": "/github.io/RoutesProject/static/js/main.0e68550e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc90459.css",
+    "static/js/main.0e68550e.js"
+  ]
+}
